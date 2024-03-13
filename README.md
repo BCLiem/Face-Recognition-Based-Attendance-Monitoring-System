@@ -8,4 +8,5 @@ Software Engineering Assignment - G113
 # Project Title
 
 # Practice
-  CHƯƠNG 1: KHÁI NIỆM VỀ KIẾN TRÚC PHẦN MỀM   Link Slide:
+  *CHƯƠNG 1: KHÁI NIỆM VỀ KIẾN TRÚC PHẦN MỀM
+  *Link Slide:
