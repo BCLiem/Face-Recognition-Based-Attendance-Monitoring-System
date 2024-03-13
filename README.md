@@ -7,5 +7,5 @@ Software Engineering Assignment - G113
 4. Nguyễn Tuấn Anh - 22021548
 # Project Title
 
-#Practice
+# Practice
 https://gamma.app/public/Khai-niem-ve-kien-truc-phan-mem-kjt2ze061zhj72c?fbclid=IwAR1IPHNcv68ys6st7K-MJT4_gupkEWk5vO8PeFoBH5VtdGl1umH54RW4H8Q
