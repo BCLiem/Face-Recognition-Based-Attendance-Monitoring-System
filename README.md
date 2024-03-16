@@ -11,3 +11,6 @@ Software Engineering Assignment - G113
 CHƯƠNG 1: KHÁI NIỆM VỀ KIẾN TRÚC PHẦN MỀM  
 * Link Slide:  
 https://gamma.app/public/Khai-niem-ve-kien-truc-phan-mem-kjt2ze061zhj72c?fbclid=IwAR1IPHNcv68ys6st7K-MJT4_gupkEWk5vO8PeFoBH5VtdGl1umH54RW4H8Q
+* Link Video thuyết trình:  
+  https://drive.google.com/file/d/1PoGgpUoMTcC548QA-MfsOM6_v9QDjtdV/view?usp=drive_link
+  
