@@ -5,8 +5,8 @@ Software Engineering Assignment - G113
 2. Bùi Anh Tuấn - 22021588
 3. Bùi Công Liêm - 22021544
 4. Nguyễn Tuấn Anh - 22021548
-# Project Title
-
+# Tic-Tac-Toe:
+Kho lưu trữ này chứa trò chơi Tic-Tac-Toe tương tác dựa trên python.
 # Running TicTacToe:
 * git clone https://github.com/aqeelanwar/Tic-Tac-Toe.git
 * cd Tic-Tac-Toe
