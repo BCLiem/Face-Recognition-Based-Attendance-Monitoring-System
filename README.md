@@ -7,4 +7,7 @@ Software Engineering Assignment - G113
 4. Nguyễn Tuấn Anh - 22021548
 # Project Title
 
-# Practice
+# Running TicTacToe:
+git clone https://github.com/aqeelanwar/Tic-Tac-Toe.git
+cd Tic-Tac-Toe
+python main.py
