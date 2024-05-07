@@ -1,15 +1,15 @@
 ## Tic-Tac-Toe:
 Kho lưu trữ này chứa trò chơi Tic-Tac-Toe tương tác dựa trên python.
 ## Running Tic-Tac-Toe:
-* Clone the project
+* Clone file từ link Github
 ```
 git clone https://github.com/BCLiem/Tic-Tac-Toe-G113-.git
 ```
-* Go to the project directory
+* Tới thư mục Tic-Tac-Toe-G113-
 ```
 cd Tic-Tac-Toe-G113-
 ```
-* Running Tic-Tac-Toe
+* Chạy file main.py 
 ```
 python main.py
 ```
