@@ -31,4 +31,4 @@ python main.py
 4. Nguyễn Tuấn Anh - 22021548
 
 ## Licence
-[Agee] MIT](https://choosealicense.com/licenses/mit)
+[MIT](https://choosealicense.com/licenses/mit/)
