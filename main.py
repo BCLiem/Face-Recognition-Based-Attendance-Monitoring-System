@@ -1,6 +1,4 @@
-# Author: aqeelanwar
-# Created: 12 March,2020, 7:06 PM
-# Email: aqeel.anwar@gatech.edu
+# Author: Nguyen Đuc Hoang Viet, Bui Anh Tuan, Bui Cong Liem, Nguyen Tuan Anh.
 
 from tkinter import *
 import numpy as np
