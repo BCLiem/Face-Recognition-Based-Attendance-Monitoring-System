@@ -1,6 +1,6 @@
-# Tic-Tac-Toe:
+## Tic-Tac-Toe:
 Kho lưu trữ này chứa trò chơi Tic-Tac-Toe tương tác dựa trên python.
-# Running Tic-Tac-Toe:
+## Running Tic-Tac-Toe:
 ```
 git clone https://github.com/BCLiem/Software_Engineering_Assignment_G113.git
 cd Tic-Tac-Toe
@@ -30,3 +30,5 @@ python main.py
 3. Bùi Công Liêm - 22021544
 4. Nguyễn Tuấn Anh - 22021548
 
+## Licence
+https://choosealicense.com/licenses/mit/
