@@ -25,14 +25,14 @@ python main.py
 </p>
 
 ## Controls
-1. Player X starts the game
-2. Click on each grid to place symbol
-3. The result of the game is displayed at the end of the game
-4. A track of player scores is maintained
-5. Click anywhere on the result screen to play again
+1. Người chơi X bắt đầu trò chơi
+2. Bấm vào từng lưới để đặt biểu tượng
+3. Kết quả trò chơi được hiển thị ở cuối trò chơi
+4. Việc theo dõi điểm số của người chơi được duy trì
+5. Nhấp vào bất kỳ đâu trên màn hình kết quả để chơi lại
 
 
 
 ## Author
-[Aqeel Anwar](https://www.prism.gatech.edu/~manwar8)
+
 
