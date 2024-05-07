@@ -1,10 +1,3 @@
-# Software_Engineering_Assignment_G113
-Software Engineering Assignment - G113
-# Contributors
-1. Nguyễn Đức Hoàng Việt - 22021513
-2. Bùi Anh Tuấn - 22021588
-3. Bùi Công Liêm - 22021544
-4. Nguyễn Tuấn Anh - 22021548
 # Tic-Tac-Toe:
 Kho lưu trữ này chứa trò chơi Tic-Tac-Toe tương tác dựa trên python.
 # Running Tic-Tac-Toe:
@@ -31,8 +24,9 @@ python main.py
 4. Việc theo dõi điểm số của người chơi được duy trì
 5. Nhấp vào bất kỳ đâu trên màn hình kết quả để chơi lại
 
-
-
 ## Author
-
+1. Nguyễn Đức Hoàng Việt - 22021513
+2. Bùi Anh Tuấn - 22021588
+3. Bùi Công Liêm - 22021544
+4. Nguyễn Tuấn Anh - 22021548
 
