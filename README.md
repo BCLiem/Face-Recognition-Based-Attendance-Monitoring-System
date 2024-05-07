@@ -13,7 +13,7 @@ cd Tic-Tac-Toe-G113-
 ```
 python main.py
 ```
-* Video demo
+## Video demo
   
 <p align="center">
 <img src="preview.gif">
