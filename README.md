@@ -3,7 +3,7 @@ Kho lưu trữ này chứa trò chơi Tic-Tac-Toe tương tác dựa trên pytho
 ## Running Tic-Tac-Toe:
 ```
 git clone https://github.com/BCLiem/Tic-Tac-Toe-G113-.git
-cd Tic-Tac-Toe(G113)
+cd Tic-Tac-Toe-G113-
 python main.py
 ```
 
