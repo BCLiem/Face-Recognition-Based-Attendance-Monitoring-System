@@ -3,7 +3,7 @@
 2. Bùi Anh Tuấn - 22021588
 3. Bùi Công Liêm - 22021544
 4. Nguyễn Tuấn Anh - 22021548
-## 1. Giới thiệu
+# 1. Giới thiệu
 
 1.1. Bối cảnh
 Trong các tổ chức giáo dục, việc điểm danh sinh viên là một hoạt động cần thiết nhưng tốn thời gian và dễ gây ra sai sót. Hệ thống điểm danh truyền thống thường gặp phải các vấn đề như gian lận điểm danh, mất thời gian kiểm tra danh sách, và không cập nhật kịp thời.
@@ -14,7 +14,7 @@ Mục tiêu của project này là phát triển một hệ thống điểm danh
 - Ngăn chặn gian lận trong điểm danh.
 - Cung cấp báo cáo điểm danh chính xác và kịp thời.
 
-## 2. Phương pháp
+# 2. Phương pháp
  2.1. Công nghệ sử dụng
 - Ngôn ngữ lập trình: Python
 - Thư viện: OpenCV, dlib, face_recognition
@@ -27,7 +27,7 @@ Mục tiêu của project này là phát triển một hệ thống điểm danh
 3. Xây dựng mô hình: Áp dụng thuật toán nhận diện gương mặt từ thư viện face_recognition để xây dựng mô hình nhận diện.
 4. Phát triển hệ thống: Tích hợp mô hình vào hệ thống điểm danh với giao diện web.
 5. Kiểm thử: Thực hiện kiểm thử trên các lớp học khác nhau để đánh giá hiệu quả của hệ thống.
-## 3. Quy trình hoạt động  
+# 3. Quy trình hoạt động  
 ```
 3.1. Khởi tạo giao diện:
 ```
@@ -64,7 +64,7 @@ Mục tiêu của project này là phát triển một hệ thống điểm danh
 - So khớp khuôn mặt nhận diện được với dữ liệu đã huấn luyện.
 - Ghi thông tin điểm danh vào file CSV với các thông tin ID, tên, ngày, và giờ.
 
-## 4. Kết quả
+# 4. Kết quả
 
  4.1. Độ chính xác
 Hệ thống đạt độ chính xác 95% trong việc nhận diện gương mặt và điểm danh tự động.
@@ -76,7 +76,7 @@ Thời gian trung bình để xử lý và xác nhận một gương mặt là 2
 Giao diện web thân thiện, dễ sử dụng, cho phép giáo viên quản lý và theo dõi danh sách điểm danh dễ dàng.
 
 
-## 5. Kết luận
+# 5. Kết luận
 
  5.1. Đánh giá tổng quan:  
 Hệ thống điểm danh bằng gương mặt đã chứng minh được hiệu quả và tính khả thi trong việc áp dụng vào thực tế. Hệ thống không chỉ giúp tiết kiệm thời gian mà còn tăng độ chính xác và minh bạch trong việc điểm danh.
@@ -90,7 +90,7 @@ Một số hạn chế của hệ thống bao gồm:
 - Tích hợp thêm các thuật toán tăng cường độ chính xác trong điều kiện ánh sáng kém.
 - Nâng cao khả năng cập nhật và tự học của mô hình để cải thiện độ chính xác theo thời gian.
 
-## 6. Tài liệu tham khảo
+# 6. Tài liệu tham khảo
 - OpenCV documentation: (https://docs.opencv.org/)
 - dlib library: (http://dlib.net/)
 - face_recognition library: (https://github.com/ageitgey/face_recognition)
