@@ -1,8 +1,3 @@
-## Sinh viên thực hiện:
-1. Nguyễn Đức Hoàng Việt - 22021513
-2. Bùi Anh Tuấn - 22021588
-3. Bùi Công Liêm - 22021544
-4. Nguyễn Tuấn Anh - 22021548
 # 1. Giới thiệu
 
 1.1. Bối cảnh
@@ -94,4 +89,9 @@ Một số hạn chế của hệ thống bao gồm:
 - OpenCV documentation: (https://docs.opencv.org/)
 - dlib library: (http://dlib.net/)
 - face_recognition library: (https://github.com/ageitgey/face_recognition)
+## Sinh viên thực hiện:
+1. Nguyễn Đức Hoàng Việt - 22021513
+2. Bùi Anh Tuấn - 22021588
+3. Bùi Công Liêm - 22021544
+4. Nguyễn Tuấn Anh - 22021548
 
